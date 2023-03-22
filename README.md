@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SagarKhtw
-- 👀 I’m interested in technplogy
+- 👀 I’m interested in Digital Media, Blockchain & Web 3 technplogy.
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me ...
+- 📫 reach me via mail@sagarkhatiwada.com.np
 
 <!---
 SagarKhtw/SagarKhtw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
