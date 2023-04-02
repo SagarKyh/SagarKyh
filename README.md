@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SagarKhtw
+- 👋 Hi, I’m @SagarKyh
 - 👀 I’m interested in Digital Media, Blockchain & Web 3 technplogy.
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on projects.
