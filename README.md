@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SagarKyh
-- 👀 I’m interested in Digital Media, Blockchain & Web 3 technology.
+- 👀 I’m interested in Digital Marketing, Blockchain & Web 3 technology.
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on projects.
 
