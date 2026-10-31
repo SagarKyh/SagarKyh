@@ -11,9 +11,9 @@ My work spans paid acquisition, conversion tracking, marketing analytics, attrib
 Based in **Kathmandu, Nepal** · Working with global teams.
 
 <p align="left">
-  <a href="https://sagarkhatiwada.com.np/"><img src="https://img.shields.io/badge/Website-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://sagarkhatiwada.com.np/?utm_source=githubreadme"><img src="https://img.shields.io/badge/Website-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/SagarKhatiwada"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://dotnp.co/"><img src="https://img.shields.io/badge/Dotnp%20Co-2563EB?style=flat-square" alt="Dotnp Co"/></a>
+  <a href="https://dotnp.co/?utm_source=githubreadme"><img src="https://img.shields.io/badge/Dotnp%20Co-2563EB?style=flat-square" alt="Dotnp Co"/></a>
 </p>
 
 ---
