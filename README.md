@@ -4,7 +4,7 @@
 
 **Paid Media · Marketing Analytics · Attribution · Growth**
 
-I work at the intersection of performance marketing, data and technology, helping businesses build more measurable and efficient growth systems.
+I work at the intersection of marketing, data and technology, helping businesses build more measurable and efficient growth systems.
 
 My work spans paid acquisition, conversion tracking, marketing analytics, attribution and campaign optimisation, with a focus on connecting marketing performance to meaningful business outcomes.
 
