@@ -119,7 +119,7 @@ I focus on building marketing systems where important interactions can be measur
   <br/><br/>
   <a href="https://sagarkhatiwada.com.np/">Website</a>&nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/SagarKhatiwada">LinkedIn</a>&nbsp; · &nbsp;
-  <a href="https://dotnp.co/">Dotnp Co</a>
+  <a href="https://dotnp.co/?utm_source=githubreadme">Dotnp Co</a>
 </p>
 
 <p align="center">
